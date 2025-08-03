@@ -1,4 +1,4 @@
-## Hi there 👋
+Hey, I’m Nenjo — a software engineer with over a decade of experience building scalable systems, backend architectures, and automation tools that don’t crash… most of the time.
 
 <!--
 **nenjotsu/nenjotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
