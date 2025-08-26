@@ -10,7 +10,7 @@ Hey, I’m Nenjo — a software engineer with over a decade of experience buildi
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once turned a spaghetti-coded script into a full-blown AI agent that now responds more intelligently than the person who wrote the original script.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/659ca728ae22c12523469d90?variant=dark&roadmaps=frontend%2Cbackend%2Cai-engineer%2Cprompt-engineering)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/659ca728ae22c12523469d90?variant=dark&roadmaps=ai-engineer%2Cprompt-engineering%2Cfrontend%2Cbackend)](https://roadmap.sh)
 
 <a href="https://nowpayments.io/donation/nenjotrades" target="_blank" rel="noreferrer noopener">
   <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments" />
